@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, my name is Filipe Guedes. Nice to meet you.</h1>
-<h3 align="center">Full Stack Developer</h3>
+[![MasterHead](https://i.postimg.cc/jqPj7jH9/Filipe-Guedes-2.png)]
+<h1 align="center">👨‍💻 I am a Full Stack Developer.</h1>
+<h3 align="center">Technology and education are my fields of expertise. I have a passion for coding, problem-solving, teaching and connecting with people.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meerkatpt&label=Profile%20views&color=0e75b6&style=flat" alt="meerkatpt" /> </p>
+- 💬 Ask me about: **Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meerkatpt" alt="meerkatpt" /></a> </p>
+- 📫 How to reach me: **guedess.f@gmail.com**
 
-- 💬 Ask me about **Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS**
-
-- 📫 How to reach me **guedess.f@gmail.com**
-
-- ⚡ Fun fact **I've lived in 4 different countries. Visited 21 in total, which is only 9,33% of the entired world. I want more.**
+- ⚡ Fun fact: **I've lived in 4 different countries. Visited 21 in total, which is only 9,33% of the entired world. I want more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meerkatpt&show_icons=true&locale=en" alt="meerkatpt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meerkatpt&" alt="meerkatpt" /></p>
+
