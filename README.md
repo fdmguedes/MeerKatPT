@@ -1,4 +1,4 @@
-[![MasterHead](https://i.postimg.cc/jqPj7jH9/Filipe-Guedes-2.png)]
+![MasterHead](https://i.postimg.cc/jqPj7jH9/Filipe-Guedes-2.png)
 <h1 align="center">👨‍💻 I am a Full Stack Developer.</h1>
 <h3 align="center">Technology and education are my fields of expertise. I have a passion for coding, problem-solving, teaching and connecting with people.</h3>
 
