@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **guedess.f@gmail.com**
 
-- ⚡ Fun fact: **I've lived in 4 different countries. Visited 21 in total, which is only 9,33% of the entired world. I want more.**
+- ⚡ Fun fact: **I've lived in 4 different countries. Visited 21 in total, which is only 9,33% countries in the world. More to come.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
