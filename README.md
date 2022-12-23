@@ -1,6 +1,6 @@
-
+ 
 # About Me:
-🔭 https://filipe-guedes.com/<br><br>🌱 I’m currently learning Python and TypeScript<br><br>❓ Ask me about anything related to Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS<br><br>⚡ Fun fact: I've visited 9,33% of countries in the world (and counting!)
+<div align="center">🔭 <a href="https://filipe-guedes.com/">Filipe Guedes</a><br><br>❓ Ask me about anything related to Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS<br><br>⚡ Fun fact: I've visited 9,33% of countries in the world (and counting!) </div>
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeerKatPT&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MeerKatPT/MeerKatPT/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
