@@ -1,5 +1,5 @@
 # About Me:
-🔭 https://filipe-guedes.com/<br><br>🌱 I’m currently learning Python and TypeScript<br><br>❓ Ask me about anything related to the MERN stack and related technologies<br><br>⚡ Fun fact: I've visited 9,33% of countries in the world (and counting!)
+🔭 https://filipe-guedes.com/<br><br>🌱 I’m currently learning Python and TypeScript<br><br>❓ Ask me about anything related to Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS<br><br>⚡ Fun fact: I've visited 9,33% of countries in the world (and counting!)
 
 
 ## 🌐 Socials:
