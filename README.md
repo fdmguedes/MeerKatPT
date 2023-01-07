@@ -1,6 +1,6 @@
  
 # About Me:
-<div align="center">🔭 <a href="https://filipe-guedes.com/">Filipe Guedes</a><br><br>❓ Ask me about anything related to Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS<br><br>⚡ Fun fact: I've visited 9,33% of countries in the world (and counting!) </div>
+<div align="center"><a href="https://filipe-guedes.com/">Filipe Guedes</a><br><br>Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS<br><br>Fun fact: I've visited 9,33% of countries in the world (and counting!) </div>
 
 
 ## 🌐 Socials:
