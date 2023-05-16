@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Hi, I'm a full stack developer with a passion for exploring the world. Originally from Lisbon, I've lived in several countries, including 🇻🇳Vietnam, 🇸🇮Slovenia, and 🇳🇱the Netherlands, and visited more than 25 others. Before my career in tech, I was an English, Science, and ICT teacher. Now, I'm focused on learning and developing my skills as a developer, and I love the challenge of building complex applications from the ground up. In my free time, I still love to travel and explore new places. Thanks for stopping by my Github page!´
+Hi, I'm a full stack developer with a passion for exploring the world. Originally from Lisbon, I've lived in several countries, including 🇻🇳Vietnam, 🇸🇮Slovenia, and 🇳🇱the Netherlands, and visited more than 25 others. Before my career in tech, I was an English, Science, and ICT teacher. Now, I'm focused on learning and developing my skills as a developer. In my free time, I still love to travel and explore new places. Thanks for stopping by my Github page!´
 
 ---
 
